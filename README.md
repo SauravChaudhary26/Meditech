@@ -1,4 +1,4 @@
-# MediCare
+# MediTech
 
 ## Getting Started
 
