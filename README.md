@@ -26,12 +26,7 @@ https://drive.google.com/file/d/1JuM7Lz3WyOylj5ZUW5Qpgv9LzQtiSwaz/view?usp=shari
 
 Team Name: CodeKar
 
-* [Jyotirmay Jain](https://github.com/jyotirmay27)
-* [Parth Mittal](https://github.com/Parthtrap)
-* [Varnika hotwani](https://github.com/Varnika-Hotwani)
-* [Abhinav Goel](https://github.com/abhinav2401)
-
-
+* [Saurav Kumar Chaudhary](https://github.com/SauravChaudhary26)
 
 ### Installation instructions
 1. Download LTS or Current version of Node js from https://nodejs.org/en/ .
